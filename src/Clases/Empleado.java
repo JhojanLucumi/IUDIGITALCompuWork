@@ -1,3 +1,5 @@
+package Clases;
+
 public class Empleado {
     // Atributos
     private String nombre;
@@ -47,3 +49,4 @@ public class Empleado {
         this.cargo = cargo;
     }
 }
+
