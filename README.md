@@ -47,4 +47,4 @@ El sistema será flexible, escalable y fácil de mantener, desarrollado siguiend
 
 ---
 
-¡Gracias por tu interés en CompuWork! Estamos emocionados de llevar la gestión de recursos humanos al siguiente nivel.
+¡Woow gracias porque te detuviste a entender este proceso de CompuWork! Estamos emocionados de poder llevarte a la gestión de recursos humanos al siguiente nivel ¡No te desanimes vamos por mas!
