@@ -41,7 +41,7 @@ El sistema será flexible, escalable y fácil de mantener, desarrollado siguiend
 
 ## Instrucciones
 
-1. **Implementación de Clases Base:** Codificar las clases `Empleado`, `Departamento` y `ReporteDesempeño`, aplicando principios de POO como encapsulamiento, herencia y polimorfismo.
+1. **Implementación de Clases1 Base:** Codificar las clases `Empleado`, `Departamento` y `ReporteDesempeño`, aplicando principios de POO como encapsulamiento, herencia y polimorfismo.
 2. **Métodos y Constructores:** Implementar los métodos y constructores necesarios para la creación y manipulación de los objetos del sistema.
 3. **Gestión de Excepciones:** Incluir el manejo de excepciones en operaciones críticas, como la asignación de empleados a departamentos y la generación de reportes.
 
