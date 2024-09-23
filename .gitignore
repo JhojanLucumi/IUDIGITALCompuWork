@@ -2,28 +2,54 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+*.iml
 
 ### Eclipse ###
 .apt_generated
 .classpath
 .factorypath
 .project
-.settings
+.settings/
 .springBeans
 .sts4-cache
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+target/
+*.log
 
 ### NetBeans ###
 /nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+*.nb-gradle/
 
 ### VS Code ###
 .vscode/
+*.code-workspace
 
 ### Mac OS ###
 .DS_Store
+.AppleDouble
+.LSOverride
+
+### Archivos de construcción y dependencias ###
+*.class
+*.jar
+*.war
+*.ear
+*.class
+*.log
+*.tmp
+
+### Archivos de configuración ###
+*.user
+*.prefs
+*.bak
+
+### Archivos de entorno ###
+.env
+*.env
