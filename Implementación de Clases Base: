@@ -1,0 +1,28 @@
+class Empleado:
+    def __init__(self, nombre, id_empleado, tipo_empleado):
+        self._nombre = nombre
+        self._id_empleado = id_empleado
+        self._tipo_empleado = tipo_empleado  # Permanente o Temporal
+
+    # Métodos getter y setter para encapsulamiento
+    def get_nombre(self):
+        return self._nombre
+
+    def set_nombre(self, nombre):
+        self._nombre = nombre
+
+    def get_id_empleado(self):
+        return self._id_empleado
+
+    def set_id_empleado(self, id_empleado):
+        self._id_empleado = id_empleado
+
+    def get_tipo_empleado(self):
+        return self._tipo_empleado
+
+    def set_tipo_empleado(self, tipo_empleado):
+        self._tipo_empleado = tipo_empleado
+
+    # Método para mostrar la información del empleado
+    def mostrar_informacion(self):
+        print(f"Nombre: {self._nombre}, ID: {self._id_empleado}, Tipo: {self._tipo_empleado}")
